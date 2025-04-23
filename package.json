@@ -1,0 +1,17 @@
+{
+  "_comment": "REQUIRED: Node version <= v12.22.12 & NPM version <= v6.14.16",
+  "author": "Flaubert Henriques",
+  "name": "shivaay-journal",
+  "description": "Gulp Shivaay Journal Theme",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "GPLv3"
+}
